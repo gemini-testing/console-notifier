@@ -1,6 +1,6 @@
 {
   "name": "console-notifier",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Plugin for gemini and hermione to log some information to a console after tests finished",
   "main": "lib/notifier.js",
   "scripts": {
